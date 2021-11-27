@@ -1,0 +1,19 @@
+.logo-img{
+    height: 50px;
+    width: 100%;
+    background-color: white;
+    border-radius: 50%;
+    padding: 4px;
+}
+.user-name{
+    background-color: rgba(0, 0, 0, 0.849);
+    padding: 10px;
+    border-radius: 10px;
+}
+.user-img{
+    height: 30px;
+    border-radius: 50%;
+}
+.bg-nav{
+    background-color: rgb(26, 118, 238);
+}

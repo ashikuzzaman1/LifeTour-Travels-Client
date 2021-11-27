@@ -1,0 +1,6 @@
+/* error area style */
+.error-area{
+    text-align: center;
+    padding: 100px;
+    background-color: rgb(147, 185, 255);
+}

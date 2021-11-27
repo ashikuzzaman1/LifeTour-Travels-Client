@@ -1,0 +1,19 @@
+/* slide area start */
+.banner-area{
+    background-color: rgb(106, 175, 255);
+    padding: 40px 50px;
+}
+.image-area{
+    transition: width 0.10s linear, height 0.10s linear, transform 2s;
+}
+.image-area:hover{
+    transform: scale(1.1,1.1);
+}
+.text-area{
+    padding: 30px;
+    color: white;
+    text-align: center;
+}
+.text-area h2{
+    padding-bottom: 20px;
+}
